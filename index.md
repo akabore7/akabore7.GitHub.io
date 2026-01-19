@@ -15,7 +15,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/from-meals-metrics-learning-doordash-analytics-artesia-kabor%C3%A9-bc07c/?trackingId=OFuVzRw9QXKgOsopNlkbXA%3D%3D)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/from-meals-metrics-learning-doordash-analytics-artesia-kabor%C3%A9-bc07c/?trackingId=OFuVzRw9QXKgOsopNlkbXA%3D%3D)
+[<img src="images/DoorDash LinkedIn Article.png?raw=true"/>](https://www.linkedin.com/pulse/from-meals-metrics-learning-doordash-analytics-artesia-kabor%C3%A9-bc07c/?trackingId=OFuVzRw9QXKgOsopNlkbXA%3D%3D)
 My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
 
 
