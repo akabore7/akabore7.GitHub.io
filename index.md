@@ -11,7 +11,7 @@
 
 ---
 #### [Education Project](https://www.linkedin.com/pulse/tableau-view-massachusetts-education-artesia-kabor%C3%A9-cweoc/?trackingId=DYyWYZkZRwieOgNQkw270w%3D%3D)
-[<img src="images/7.png?raw=true"/>]([https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith](https://www.linkedin.com/pulse/tableau-view-massachusetts-education-artesia-kabor%C3%A9-cweoc/?trackingId=DYyWYZkZRwieOgNQkw270w%3D%3D)]
+[<img src="images/7.png?raw=true"/>](https://www.linkedin.com/pulse/tableau-view-massachusetts-education-artesia-kabor%C3%A9-cweoc/?trackingId=DYyWYZkZRwieOgNQkw270w%3D%3D)]
 
 
 ---
