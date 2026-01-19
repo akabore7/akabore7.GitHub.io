@@ -4,19 +4,9 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
-
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
-
----
-#### [External Link Project](https://www.linkedin.com/pulse/from-meals-metrics-learning-doordash-analytics-artesia-kabor%C3%A9-bc07c/?trackingId=OFuVzRw9QXKgOsopNlkbXA%3D%3D)
-[<img src="images/DoorDash LinkedIn Article.png?raw=true"/>](https://www.linkedin.com/pulse/from-meals-metrics-learning-doordash-analytics-artesia-kabor%C3%A9-bc07c/?trackingId=OFuVzRw9QXKgOsopNlkbXA%3D%3D)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+#### [DoorDash Project](https://www.linkedin.com/pulse/from-meals-metrics-learning-doordash-analytics-artesia-kabor%C3%A9-bc07c/?trackingId=OFuVzRw9QXKgOsopNlkbXA%3D%3D)
+[<img src="images/DoorDash LinkedIn Article.png?raw=true"/>](https://www.linkedin.com/pulse/from-meals-metrics-learning-doordash-analytics-artesia-kabor%C3%A9-bc07c/?trackingId=OFuVzRw9QXKgOsopNlkbXA%3D%3D) 
 
 
 ---
