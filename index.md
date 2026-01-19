@@ -11,21 +11,15 @@
 
 ---
 #### [Education Project](https://www.linkedin.com/pulse/tableau-view-massachusetts-education-artesia-kabor%C3%A9-cweoc/?trackingId=DYyWYZkZRwieOgNQkw270w%3D%3D)
-[<img src="images/7.png?raw=true"/>]([https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith](https://www.linkedin.com/pulse/tableau-view-massachusetts-education-artesia-kabor%C3%A9-cweoc/?trackingId=DYyWYZkZRwieOgNQkw270w%3D%3D))
+[<img src="images/7.png?raw=true"/>]([https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith](https://www.linkedin.com/pulse/tableau-view-massachusetts-education-artesia-kabor%C3%A9-cweoc/?trackingId=DYyWYZkZRwieOgNQkw270w%3D%3D)]
 
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
+#### [Finance Project](https://www.linkedin.com/pulse/money-talks-ida-edition-artesia-kabor%C3%A9-di3ve/?trackingId=wZXgNg5cvQDVKnm8UWDFKg%3D%3D)
+[<img src="images/DoorDash LinkedIn Article.png?raw=true"/>](https://www.linkedin.com/pulse/money-talks-ida-edition-artesia-kabor%C3%A9-di3ve/?trackingId=wZXgNg5cvQDVKnm8UWDFKg%3D%3D)
 
 
 
+#### [Healthcare Project]()
+[<img src="images/DoorDash LinkedIn Article copy.png?raw=true"/>]()
 
