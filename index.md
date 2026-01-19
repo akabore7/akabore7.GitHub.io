@@ -6,7 +6,7 @@
 
 ---
 #### [DoorDash Project](https://www.linkedin.com/pulse/from-meals-metrics-learning-doordash-analytics-artesia-kabor%C3%A9-bc07c/?trackingId=OFuVzRw9QXKgOsopNlkbXA%3D%3D)
-[<img src="images/DoorDash LinkedIn Article.png?raw=true"/>](https://www.linkedin.com/pulse/from-meals-metrics-learning-doordash-analytics-artesia-kabor%C3%A9-bc07c/?trackingId=OFuVzRw9QXKgOsopNlkbXA%3D%3D) 
+[<img src="images/7.png?raw=true"/>](https://www.linkedin.com/pulse/from-meals-metrics-learning-doordash-analytics-artesia-kabor%C3%A9-bc07c/?trackingId=OFuVzRw9QXKgOsopNlkbXA%3D%3D) 
 
 
 ---
