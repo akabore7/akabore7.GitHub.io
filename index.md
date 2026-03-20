@@ -15,7 +15,7 @@
 
 
 ---
-#### [Finance Project](https://www.linkedin.com/pulse/money-talks-ida-edition-artesia-kabor%C3%A9-di3ve/?trackingId=wZXgNg5cvQDVKnm8UWDFKg%3D%3D)
+#### [UK Real Estate Project]()
 [<img src="images/Finance.png?raw=true"/>](https://www.linkedin.com/pulse/money-talks-ida-edition-artesia-kabor%C3%A9-di3ve/?trackingId=wZXgNg5cvQDVKnm8UWDFKg%3D%3D)
 
 
