@@ -15,11 +15,11 @@
 
 
 ---
-#### [UK Real Estate Project]()
+#### [UK Real Estate Project (Coming Soon)]()
 [<img src="images/UK Real Estate.png?raw=true"/>]()
 
 
 
-#### [Healthcare Project]()
+#### [Healthcare Project (Coming Soon)]()
 [<img src="images/Healthcare2.png?raw=true"/>]()
 
