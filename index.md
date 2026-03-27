@@ -16,7 +16,7 @@
 
 ---
 #### [UK Real Estate Project](https://pointy-python-aa2.notion.site/DAA-Internship-Team-2-UK-Property-Sales-Analysis-30907502141b80e9a47df8bf0de3fb83)
-[<img src="images/UK Real Estate.png?raw=true"/>](https://pointy-python-aa2.notion.site/DAA-Internship-Team-2-UK-Property-Sales-Analysis-30907502141b80e9a47df8bf0de3fb83)
+[<img src="images/UK Team 2.png?raw=true"/>](https://pointy-python-aa2.notion.site/DAA-Internship-Team-2-UK-Property-Sales-Analysis-30907502141b80e9a47df8bf0de3fb83)
 
 
 
