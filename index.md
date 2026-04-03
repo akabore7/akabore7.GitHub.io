@@ -10,8 +10,8 @@
 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/tableau-view-massachusetts-education-artesia-kabor%C3%A9-cweoc/?trackingId=DYyWYZkZRwieOgNQkw270w%3D%3D)
-[<img src="images/Education.png?raw=true"/>](https://www.linkedin.com/pulse/tableau-view-massachusetts-education-artesia-kabor%C3%A9-cweoc/?trackingId=DYyWYZkZRwieOgNQkw270w%3D%3D)
+#### [Finance Project](https://www.linkedin.com/pulse/money-talks-ida-edition-artesia-kabor%25C3%25A9-di3ve/)
+[<img src="images/Finance.png?raw=true"/>](https://www.linkedin.com/pulse/tableau-view-massachusetts-education-artesia-kabor%C3%A9-cweoc/?trackingId=DYyWYZkZRwieOgNQkw270w%3D%3D)
 
 
 ---
